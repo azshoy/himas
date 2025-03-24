@@ -1,0 +1,4 @@
+.idea
+.venv
+database.db
+config.ini
